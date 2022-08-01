@@ -6,11 +6,11 @@ namespace _2_10718
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("강한육군 대한육군")
-            Console.WriteLine("강한육군 대한육군")
-            // string[] text = {"강한육군 대한육군", "강한육군 대한육군"};
-            // foreach (string str in text) 
-            //     Console.WriteLine(str);
+            // Console.WriteLine("강한친구 대한육군")
+            // Console.WriteLine("강한친구 대한육군")
+            string[] text = {"강한친구 대한육군", "강한친구 대한육군"};
+            foreach (string str in text) 
+                Console.WriteLine(str);
 
         }
     }
