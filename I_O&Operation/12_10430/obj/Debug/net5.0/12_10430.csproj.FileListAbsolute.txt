@@ -1,0 +1,15 @@
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.csproj.AssemblyReference.cache
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.AssemblyInfoInputs.cache
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.AssemblyInfo.cs
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.csproj.CoreCompileInputs.cache
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/12_10430.deps.json
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/12_10430.runtimeconfig.json
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/12_10430.runtimeconfig.dev.json
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/12_10430.dll
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/ref/12_10430.dll
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/bin/Debug/net5.0/12_10430.pdb
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.dll
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/ref/12_10430.dll
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.pdb
+/Users/dnjsrua59/Documents/GitHub/C-Hash_BaekJoon/I_O&Operation/12_10430/obj/Debug/net5.0/12_10430.genruntimeconfig.cache
